@@ -144,23 +144,10 @@ const vinay = {
 -->
 
 <!--START_SECTION:waka-->
-⚡ Connect [WakaTime](https://wakatime.com) to your GitHub to show live coding stats here!
+
 <!--END_SECTION:waka-->
 
 ---
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/vinnu091">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinnu091&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/vinnu091">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinnu091&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-  </a>
-
-</div>
 
 
 
@@ -201,5 +188,5 @@ const vinay = {
 <!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-  <sub>⭐ If you like what you see, consider giving my repos a star! It means a lot 🙏</sub>
+  <!-- <sub>⭐ If you like what you see, consider giving my repos a star! It means a lot 🙏</sub> -->
 </div>
