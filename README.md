@@ -38,7 +38,7 @@ const vinay = {
   passion     : ["Clean Code", "Scalable Systems", "UI/UX"],
   currentWork : "Building full-stack web applications",
   learning    : ["Cloud Architecture ☁️", "DevOps 🐳", "AI Integration 🤖"],
-  hobbies     : ["Coding", "Problem Solving", "Open Source"],
+  hobbies     : ["Coding", "Problem Solving"],
   funFact     : "I debug with console.log and I'm not ashamed 😄"
 };
 ```
@@ -52,11 +52,11 @@ const vinay = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
 </p>
 
 ### 🛠️ Backend
@@ -65,7 +65,7 @@ const vinay = {
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> -->
 </p>
 
 ### 🗄️ Databases
@@ -73,17 +73,17 @@ const vinay = {
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> -->
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -115,11 +115,11 @@ const vinay = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
+ 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=vinnu091&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
+</div> -->
 
 ---
 
@@ -130,20 +130,21 @@ const vinay = {
 </div>
 
 <!-- Snake Animation (set this up in GitHub Actions – see instructions below) -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnu091/vinnu091/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinnu091/vinnu091/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/vinnu091/vinnu091/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div> 
 
 ---
 
 ## 💻 WakaTime / Coding Activity
+-->
 
 <!--START_SECTION:waka-->
-> ⚡ Connect [WakaTime](https://wakatime.com) to your GitHub to show live coding stats here!
+⚡ Connect [WakaTime](https://wakatime.com) to your GitHub to show live coding stats here!
 <!--END_SECTION:waka-->
 
 ---
@@ -161,11 +162,11 @@ const vinay = {
 
 </div>
 
-> 💡 *Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names!*
+
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 ✅  Build 5+ full-stack production projects
