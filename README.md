@@ -31,7 +31,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const vinay = {
+const vinnu vyshnavi = {
   username    : "vinnu091",
   role        : "Full Stack Developer",
   location    : "India 🇮🇳",
@@ -169,7 +169,7 @@ const vinay = {
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/vinnu091">
+  <a href="https://www.linkedin.com/in/vinnu-vaishnavi-66ab62341">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/vinnu091">
