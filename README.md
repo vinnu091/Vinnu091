@@ -161,14 +161,6 @@ fun_fact:     "I debug with console.log and I'm not ashamed 😄"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinnu091&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub trophies" />
-</div>
-
----
-
 ## 🕘 Recent Activity
 
 <!-- Auto-updated by the workflow. Do not remove these two marker lines. -->
