@@ -126,6 +126,21 @@ fun_fact:     "I debug with console.log and I'm not ashamed 😄"
   <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" alt="Productive time" />
 </div>
 
+---
+
+## 🔥 Streak & Contributions
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=vinnu091&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=ff6b35&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/22d3ee/vinnu091" alt="vinnu091 contribution calendar" width="90%" />
+</div>
+
+---
 
 ## 📈 Contribution History
 
