@@ -163,9 +163,7 @@ fun_fact:     "I debug with console.log and I'm not ashamed 😄"
 
 ## 🕘 Recent Activity
 
-<!-- Auto-updated by the workflow. Do not remove these two marker lines. -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- Auto-updated by the workflow. Do not remove these two marker lines. --> <!--START_SECTION:activity--> <!--END_SECTION:activity-->
 
 ---
 
